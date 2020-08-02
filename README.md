@@ -13,4 +13,6 @@ Howdy, I'm Zachary Patten and am a software developer. I have coded in many lang
 > - [C# Generic Math](https://gist.github.com/ZacharyPatten/8e1395a94928f2c7715cf939b0d0389c) <sub>May 12, 2015</sub>
 > - [Omnitree](https://gist.github.com/ZacharyPatten/f21fc5c6835faea9be8ae4baab4e294e) <sub>July 8, 2014</sub>
 
+<sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
+
 ### Code Repositories (see pins below)
