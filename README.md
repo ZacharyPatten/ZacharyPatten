@@ -4,16 +4,11 @@ Howdy, I'm Zachary Patten and am a software developer. I have coded in many lang
 
 ### Articles, Blog Posts, and Gists
 
-> [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
-
-> [Unique Random Generation](https://gist.github.com/ZacharyPatten/c9b43a2c9e8a5a5523883e77410f742d) <sub>December 18, 2019</sub>
-
-> [Static Generic Argument Expressions And Method Constraints](https://gist.github.com/ZacharyPatten/bdd44cae81155484e6ab5b7555390003) <sub>November 8, 2019</sub>
-
-> [Accessing XML Documentaiton via Reflection](https://gist.github.com/ZacharyPatten/31a40b2f6cea4cb7a4036ccf174acd41) <sub>April 24, 2019</sub>
-
-> [C# Generic Math](https://gist.github.com/ZacharyPatten/8e1395a94928f2c7715cf939b0d0389c) <sub>May 12, 2015</sub>
-
-> [Omnitree](https://gist.github.com/ZacharyPatten/f21fc5c6835faea9be8ae4baab4e294e) <sub>July 8, 2014</sub>
+> - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
+> - [Unique Random Generation](https://gist.github.com/ZacharyPatten/c9b43a2c9e8a5a5523883e77410f742d) <sub>December 18, 2019</sub>
+> - [Static Generic Argument Expressions And Method Constraints](https://gist.github.com/ZacharyPatten/bdd44cae81155484e6ab5b7555390003) <sub>November 8, 2019</sub>
+> - [Accessing XML Documentaiton via Reflection](https://gist.github.com/ZacharyPatten/31a40b2f6cea4cb7a4036ccf174acd41) <sub>April 24, 2019</sub>
+> - [C# Generic Math](https://gist.github.com/ZacharyPatten/8e1395a94928f2c7715cf939b0d0389c) <sub>May 12, 2015</sub>
+> - [Omnitree](https://gist.github.com/ZacharyPatten/f21fc5c6835faea9be8ae4baab4e294e) <sub>July 8, 2014</sub>
 
 ### Code Repositories (see pins below)
