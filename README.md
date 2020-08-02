@@ -1,6 +1,6 @@
 ## Overview
 
-Howdy, I'm Zachary Patten and am a software developer. I have coded in many languages, but most of the content on my GitHub content focuses on C# in particular.
+Howdy, I'm Zachary Patten and I am a software developer. I have coded in many languages, but most of the content on my GitHub content focuses on C# in particular.
 
 ## Articles, Blog Posts, and Gists
 
