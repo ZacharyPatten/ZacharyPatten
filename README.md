@@ -1,8 +1,8 @@
-### Overview
+## Overview
 
 Howdy, I'm Zachary Patten and am a software developer. I have coded in many languages, but most of the content on my GitHub content focuses on C# in particular.
 
-### Articles, Blog Posts, and Gists
+## Articles, Blog Posts, and Gists
 
 > - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
 > - [Multiple String Replacement Extension Method](https://gist.github.com/ZacharyPatten/defc9b1308bb138ef3bb8b1f8720227e) <sub>July 29, 2020</sub>
@@ -15,4 +15,4 @@ Howdy, I'm Zachary Patten and am a software developer. I have coded in many lang
 
 <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
 
-### Code Repositories (see pins below)
+## Code Repositories (see pins below)
