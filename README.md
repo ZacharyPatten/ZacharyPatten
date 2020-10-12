@@ -2,6 +2,14 @@
 
 Howdy, I'm Zachary Patten and I am a software developer. I have coded in many languages, but most of my GitHub content focuses on C# in particular.
 
+## Repositories
+
+> - [dotnet-blazor-games](https://github.com/ZacharyPatten/dotnet-blazor-games) <sub>2020+</sub><br /><sub>_Game examples implemented as .NET blazor components._</sub>
+> - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sub>_Benchmark almanac for .NET code._</sub>
+> - [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) <sub>2020+</sub><br /><sub>_Game examples implemented as .NET console applications._</sub>
+> - [Towel](https://github.com/ZacharyPatten/Towel) <sub>2014+</sub><br /><sub>_A .NET library with data structures, algorithms, mathematics, extensions, and more._</sub>
+> - [SevenEngine](https://github.com/ZacharyPatten/SevenEngine) <sub>2013 [Archived]</sub> <br /><sub>_An old college project; a battle simulator in C# using OpenGL (via OpenTK)._</sub>
+
 ## Articles, Blog Posts, and Gists
 
 > - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
@@ -15,10 +23,3 @@ Howdy, I'm Zachary Patten and I am a software developer. I have coded in many la
 > - [Omnitree](https://gist.github.com/ZacharyPatten/f21fc5c6835faea9be8ae4baab4e294e) <sub>July 8, 2014</sub>
 
 <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
-
-## Repositories
-
-> - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sub>_Benchmark almanac for .NET code._</sub>
-> - [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) <sub>2020+</sub><br /><sub>_Game examples implemented as .NET console applications._</sub>
-> - [Towel](https://github.com/ZacharyPatten/Towel) <sub>2014+</sub><br /><sub>_A .NET library with data structures, algorithms, mathematics, extensions, and more._</sub>
-> - [SevenEngine](https://github.com/ZacharyPatten/SevenEngine) <sub>2013 [Archived]</sub> <br /><sub>_An old college project; a battle simulator in C# using OpenGL (via OpenTK)._</sub>
