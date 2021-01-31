@@ -12,6 +12,7 @@ Howdy, I'm Zachary Patten and I am a software developer. I have coded in many la
 
 ## Articles, Blog Posts, and Gists
 
+> - [Random Generation (with efficient exclusions)](https://gist.github.com/ZacharyPatten/8de188b2bd358ab5c3517cbb55e83632) <sub>January 31, 2021</sub>
 > - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
 > - [Multiple String Replacement Extension Method](https://gist.github.com/ZacharyPatten/defc9b1308bb138ef3bb8b1f8720227e) <sub>July 29, 2020</sub>
 > - [Generate Random Weighted Data](https://gist.github.com/ZacharyPatten/728658c5bc13634ee10cdaf3d6ac7baa) <sub>January 2, 2020</sub>
