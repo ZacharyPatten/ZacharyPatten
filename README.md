@@ -1,7 +1,3 @@
-## Overview
-
-Howdy, I'm Zachary Patten and I am a software developer. I have coded in many languages, but most of my GitHub content focuses on C# in particular.
-
 ## Repositories
 
 > - [Towel](https://github.com/ZacharyPatten/Towel) <sub>2014+</sub><br /><sub>_A .NET library with data structures, algorithms, mathematics, extensions, and more._</sub>
