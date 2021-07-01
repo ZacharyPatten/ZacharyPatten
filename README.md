@@ -9,6 +9,7 @@
 
 ## Articles, Blog Posts, and Gists
 
+> - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
 > - [.NET Target Framework Badge](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-12-09.md) <sub>September 12, 2020</sub>
 > - [Beginner's Guide To Console Input In C#](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-08-01.md) <sub>August 1, 2020</sub>
