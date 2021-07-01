@@ -12,7 +12,7 @@
 > - [Random Generation (with efficient exclusions)](https://gist.github.com/ZacharyPatten/8de188b2bd358ab5c3517cbb55e83632) <sub>January 31, 2021</sub>
 > - [.NET Target Framework Badge](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-12-09.md) <sub>September 12, 2020</sub>
 > - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
-> - [Multiple String Replacement Extension Method](https://gist.github.com/ZacharyPatten/defc9b1308bb138ef3bb8b1f8720227e) <sub>July 29, 2020</sub>
+> - [Multiple String Replacement Extension Method](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-07-29.md) <sub>July 29, 2020</sub>
 > - [Generate Random Weighted Data](https://gist.github.com/ZacharyPatten/728658c5bc13634ee10cdaf3d6ac7baa) <sub>January 2, 2020</sub>
 > - [Unique Random Generation](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-12-18.md) <sub>December 18, 2019</sub>
 > - [Generic Argument Expressions And Method Constraints](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-11-08.md) <sub>November 8, 2019</sub>
