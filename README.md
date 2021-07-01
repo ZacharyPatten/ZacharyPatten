@@ -19,6 +19,6 @@
 > - [C# Generic Enum Union](https://gist.github.com/ZacharyPatten/201777593c35b11ea2d90066320113f1) <sub>October 16, 2019</sub>
 > - [Accessing XML Documentaiton via Reflection](https://gist.github.com/ZacharyPatten/31a40b2f6cea4cb7a4036ccf174acd41) <sub>April 24, 2019</sub>
 > - [C# Generic Math](https://gist.github.com/ZacharyPatten/8e1395a94928f2c7715cf939b0d0389c) <sub>May 12, 2015</sub>
-> - [Omnitree](https://gist.github.com/ZacharyPatten/f21fc5c6835faea9be8ae4baab4e294e) <sub>July 8, 2014</sub>
+> - [Omnitree](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2014-07-08.md) <sub>July 8, 2014</sub>
 >
 > <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
