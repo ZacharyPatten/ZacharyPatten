@@ -16,7 +16,7 @@
 > - [Generate Random Weighted Data](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-01-02.md) <sub>January 2, 2020</sub>
 > - [Unique Random Generation](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-12-18.md) <sub>December 18, 2019</sub>
 > - [Generic Argument Expressions And Method Constraints](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-11-08.md) <sub>November 8, 2019</sub>
-> - [C# Generic Enum Union](https://gist.github.com/ZacharyPatten/201777593c35b11ea2d90066320113f1) <sub>October 16, 2019</sub>
+> - [C# Generic Enum Union](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-10-16.md) <sub>October 16, 2019</sub>
 > - [Accessing XML Documentaiton via Reflection](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-04-24.md) <sub>April 24, 2019</sub>
 > - [C# Generic Math](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2015-05-12.md) <sub>May 12, 2015</sub>
 > - [Omnitree](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2014-07-08.md) <sub>July 8, 2014</sub>
