@@ -18,7 +18,7 @@
 > - [Generic Argument Expressions And Method Constraints](https://gist.github.com/ZacharyPatten/bdd44cae81155484e6ab5b7555390003) <sub>November 8, 2019</sub>
 > - [C# Generic Enum Union](https://gist.github.com/ZacharyPatten/201777593c35b11ea2d90066320113f1) <sub>October 16, 2019</sub>
 > - [Accessing XML Documentaiton via Reflection](https://gist.github.com/ZacharyPatten/31a40b2f6cea4cb7a4036ccf174acd41) <sub>April 24, 2019</sub>
-> - [C# Generic Math](https://gist.github.com/ZacharyPatten/8e1395a94928f2c7715cf939b0d0389c) <sub>May 12, 2015</sub>
+> - [C# Generic Math](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2015-05-12.md) <sub>May 12, 2015</sub>
 > - [Omnitree](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2014-07-08.md) <sub>July 8, 2014</sub>
 >
 > <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
