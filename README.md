@@ -14,7 +14,7 @@
 > - [Beginner's Guide To Console Input In C#](https://gist.github.com/ZacharyPatten/798ed612d692a560bdd529367b6a7dbd) <sub>August 1, 2020</sub>
 > - [Multiple String Replacement Extension Method](https://gist.github.com/ZacharyPatten/defc9b1308bb138ef3bb8b1f8720227e) <sub>July 29, 2020</sub>
 > - [Generate Random Weighted Data](https://gist.github.com/ZacharyPatten/728658c5bc13634ee10cdaf3d6ac7baa) <sub>January 2, 2020</sub>
-> - [Unique Random Generation](https://gist.github.com/ZacharyPatten/c9b43a2c9e8a5a5523883e77410f742d) <sub>December 18, 2019</sub>
+> - [Unique Random Generation](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-12-18.md) <sub>December 18, 2019</sub>
 > - [Generic Argument Expressions And Method Constraints](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-11-08.md) <sub>November 8, 2019</sub>
 > - [C# Generic Enum Union](https://gist.github.com/ZacharyPatten/201777593c35b11ea2d90066320113f1) <sub>October 16, 2019</sub>
 > - [Accessing XML Documentaiton via Reflection](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2019-04-24.md) <sub>April 24, 2019</sub>
