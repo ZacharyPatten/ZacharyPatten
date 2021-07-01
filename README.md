@@ -7,7 +7,7 @@
 > - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sup>_Benchmark almanac for .NET code._</sup>
 > - [dotnet-winforms-examples](https://github.com/ZacharyPatten/dotnet-winforms-examples) <sub>2021+</sub><br /><sup>_Random winforms examples people ask me for help with._</sup>
 
-## Articles, Blog Posts, and Gists
+## Articles, Issues, and Gists
 
 > Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+" alt="Open Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues" alt="Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aclosed+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+" alt="Closed Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues" alt="Closed Issues"> Closed</a>
 >
