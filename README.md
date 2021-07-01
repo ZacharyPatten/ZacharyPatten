@@ -9,7 +9,7 @@
 
 ## Articles, Blog Posts, and Gists
 
-> Authored Issues: [Open](https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Closed](https://github.com/issues?q=is%3Aclosed+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+)
+> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+" alt="Open Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues" alt="Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aclosed+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+" alt="Closed Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues" alt="Closed Issues"> Closed</a>
 >
 > - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
