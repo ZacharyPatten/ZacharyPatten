@@ -7,9 +7,11 @@
 > - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sup>_Benchmark almanac for .NET code._</sup>
 > - [dotnet-winforms-examples](https://github.com/ZacharyPatten/dotnet-winforms-examples) <sub>2021+</sub><br /><sup>_Random winforms examples people ask me for help with._</sup>
 
-## Articles, Issues, and Gists
+## Articles, Issues, Pull Requests, and Gists
 
-> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen" alt="Open Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues" alt="Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed" alt="Closed Issues"><img alt="github repo" src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues" alt="Closed Issues"> Closed</a>
+> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues"> Closed</a>
+>
+> Authored Pull Requests:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-16.svg" title="Go To Open Pull Requests"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/issues?q=is%3Aclosed+is%3Aissue+author%3AZacharyPatten+archived%3Afalse+"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-closed-16.svg" title="Go To Closed Pull Requests"> Closed</a>
 >
 > - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
