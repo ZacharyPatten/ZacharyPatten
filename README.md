@@ -9,10 +9,6 @@
 
 ## Articles, Issues, Pull Requests, and Gists
 
-> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues"> Closed</a>
->
-> Authored Pull Requests:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aopen+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-16.svg" title="Go To Open Pull Requests"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aclosed+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-closed-16.svg" title="Go To Closed Pull Requests"> Closed</a>
->
 > - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
 > - [.NET Target Framework Badge](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2020-09-12.md) <sub>September 12, 2020</sub>
@@ -27,3 +23,8 @@
 > - [Omnitree](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2014-07-08.md) <sub>July 8, 2014</sub>
 >
 > <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
+> 
+> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues"> Closed</a>
+>
+> Authored Pull Requests:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aopen+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-16.svg" title="Go To Open Pull Requests"> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aclosed+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-closed-16.svg" title="Go To Closed Pull Requests"> Closed</a>
+
