@@ -7,7 +7,7 @@
 > - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sup>_Benchmark almanac for .NET code._</sup>
 > - [dotnet-winforms-examples](https://github.com/ZacharyPatten/dotnet-winforms-examples) <sub>2021+</sub><br /><sup>_Random winforms examples people ask me for help with._</sup>
 
-## Articles, Issues, Pull Requests, and Gists
+## Authored Content
 
 > - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
@@ -23,8 +23,10 @@
 > - [Omnitree](https://github.com/ZacharyPatten/ZacharyPatten/blob/master/Articles/2014-07-08.md) <sub>July 8, 2014</sub>
 >
 > <sub>_You can check out more of my gists [here](https://gist.github.com/ZacharyPatten)._</sub>
-> 
-> Authored Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues"></sub> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues"></sub> Closed</a>
 >
-> Authored Pull Requests:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aopen+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-16.svg" title="Go To Open Pull Requests"></sub> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aclosed+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-closed-16.svg" title="Go To Closed Pull Requests"></sub> Closed</a>
+> Issues:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aopen"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-open.svg" title="Go To Open Issues"></sub> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten+is%3Aissue+is%3Aclosed"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/issue-closed.svg" title="Go To Closed Issues"></sub> Closed</a>
+>
+> Discussions:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=author%3Azacharypatten&type=discussions"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/comment-discussion-16.svg" title="Go To Open Discussions"></sub></a>
+>
+> Pull Requests:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aopen+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-16.svg" title="Go To Open Pull Requests"></sub> Open</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/search?q=is%3Aclosed+is%3Apull-request+author%3AZacharyPatten+archived%3Afalse"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/master/Resources/GitHub/git-pull-request-closed-16.svg" title="Go To Closed Pull Requests"></sub> Closed</a>
 
