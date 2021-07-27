@@ -419,6 +419,8 @@ Do you have a logo?
 > However, if you plan on having nuget packages, nuget currently does not support `.svg` formats. You should still make your logo in the `.svg` format if you can, but you just need to convert it to a raster format (generally `.png`) in order to use it with nuget packages.
 >
 > Scalable Vector Graphics (`.svg`) support animations. So if you want an animated logo, you can do that with the `.svg` file format. Here is an example:
+>
+> _todo_
 
 </p>
 </details>
