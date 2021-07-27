@@ -138,7 +138,9 @@ Do you have unit testing code coverage on your <code>README.md</code>?
 > > Note: Try to write meaningful unit tests rather than slapping on unit tests to achieve 100% coverage. Just because you have a high coverage percentage does not mean your code is bug free. Having unreliable, excessive, or verbose unit testing can sometimes hinder a project more than help it.
 >
 > How to I get my test coverage? 
-
+>
+> _todo_
+  
 </p>
 </details>
 
@@ -181,7 +183,9 @@ Are your recommended <code>build processes</code> and <code>IDEs</code> on your 
 > If you have a Windows Forms Application, then 
 >
 > Here are some badges you can copy 
-
+>
+> _todo_
+  
 </p>
 </details>
 
@@ -209,7 +213,6 @@ Are <code>Issues</code> and/or <code>Discussions</code> enabled on your reposito
 > [More information here. (GitHub `Issues`)](https://guides.github.com/features/issues/)
 >
 > [More information here. (GitHub `Discussions`)](https://docs.github.com/en/discussions)
-
 
 </p>
 </details>
