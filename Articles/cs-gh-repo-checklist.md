@@ -479,6 +479,8 @@ Do you have a <em>"using my project"</em> badge?
 </p>
 </details>
 
+## Tips & Tricks
+
 <details>
 <summary>
 Do you have GitHub <code>Sponsors</code> set up (community financial support)?
