@@ -43,7 +43,7 @@ Do you have a <code>.gitignore</code>?
 >
 > The `.gitignore` file is how you can control what files are included or excluded from your repository. For C# repsoitories, if you use GitHub's online interface, you want to choose the `Visual Studio` option when you create your repository:
 >
-> ![image](https://user-images.githubusercontent.com/3385986/126922682-eee60260-8cb8-473e-8808-bce382db40c3.png)
+> ![image](https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/github-repo-checklist/gitignore.png)
 >
 > If you need to add or update a `.gitignore` file to an existing repsoitory, you copy the latest version of the `Visual Studio` template here:
 > [https://github.com/github/gitignore/blob/master/VisualStudio.gitignore](https://github.com/github/gitignore/blob/master/VisualStudio.gitignore)
