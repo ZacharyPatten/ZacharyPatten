@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="20" role="img" aria-label="opens with: Visual Studio Code">
+	<title>opens with: Visual Studio Code</title>
+	<linearGradient id="s" x2="0" y2="100%">
+		<stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+		<stop offset="1" stop-opacity=".1" />
+	</linearGradient>
+	<clipPath id="r">
+		<rect width="199" height="20" rx="3" fill="#fff" />
+	</clipPath>
+	<g clip-path="url(#r)">
+		<rect width="86" height="20" fill="#444" />
+		<rect x="86" width="113" height="20" fill="#007acc" />
+		<rect width="199" height="20" fill="url(#s)" />
+	</g>
+	<g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+		<svg xmlns="http://www.w3.org/2000/svg" role="img" x="2" y="2" height="16" width="16" viewBox="0 0 24 24" fill="#007ACC">
+			<title>Visual Studio Code</title>
+			<path d="M23.15 2.587L18.21.21a1.494 1.494 0 0 0-1.705.29l-9.46 8.63-4.12-3.128a.999.999 0 0 0-1.276.057L.327 7.261A1 1 0 0 0 .326 8.74L3.899 12 .326 15.26a1 1 0 0 0 .001 1.479L1.65 17.94a.999.999 0 0 0 1.276.057l4.12-3.128 9.46 8.63a1.492 1.492 0 0 0 1.704.29l4.942-2.377A1.5 1.5 0 0 0 24 20.06V3.939a1.5 1.5 0 0 0-.85-1.352zm-5.146 14.861L10.826 12l7.178-5.448v10.896z"/>
+		</svg>
+		<text aria-hidden="true" x="525" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="590">opens with</text>
+		<text x="525" y="140" transform="scale(.1)" fill="#fff" textLength="590">opens with</text>
+		<text aria-hidden="true" x="1415" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="1030">Visual Studio Code</text>
+		<text x="1415" y="140" transform="scale(.1)" fill="#fff" textLength="1030">Visual Studio Code</text>
+	</g>
+</svg>
