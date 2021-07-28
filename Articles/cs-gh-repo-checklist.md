@@ -1,3 +1,6 @@
+> Date: July 27, 2021<br/>
+> Original Post: [https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a](https://gist.github.com/ZacharyPatten/08532b31ef5efc7593b32326b498023a)
+
 # GitHub Repository Checklist (C#)
 
 Have a repository on GitHub? Planning on making a repository on GitHub? This checklist is intended to introduce you to various features that may help you make the most of your GitHub repository with specific recommendations for C# repsoitories.
@@ -479,15 +482,19 @@ Do you have a <em>"using my project"</em> badge?
 </p>
 </details>
 
-## Tips & Tricks
-
 <details>
 <summary>
 Do you have GitHub <code>Sponsors</code> set up (community financial support)?
 </summary>
 <p>
 
-> Have you seen other projects with the "Sponsor" button at the top of their repsoitory? Are you wanting the same for your repository? That feature is simply called HitHub `Sponsors`. You can also configure the sponsor button to link to alternate funding platforms like `Patreon`, `Buy Me a Coffee`, etc.
+> Have you seen other projects with the "Sponsor" button at the top of their repsoitory?
+>
+> ![image](https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/github-repo-checklist/gitignore.png)
+>
+> Are you wanting the same for your repository? That feature is simply called GitHub `Sponsors`. You can also configure the sponsor button to link to alternate funding platforms like `Patreon`, `Buy Me a Coffee`, etc.
+>
+> [More information here (GitHub sponsors).](https://github.com/sponsors)
 
 </p>
 </details>
@@ -567,6 +574,17 @@ Are you using GitHub <code>Topics</code>?
 > <image src="https://user-images.githubusercontent.com/3385986/127240330-8a1b34e0-6656-49c5-ab43-bd2d58456357.png" height="300" />
 >
 > Then your repository will appear in the search results on pages like [https://github.com/topics](https://github.com/topics).
+
+</p>
+</details>
+
+<details>
+<summary>
+Do you have a "<code>.sln</code>" file in the root of your repository?
+</summary>
+<p>
+
+> Try to have a single solution "`.sln`" file in the root directory of your repository. That way newcomers to your project have a clear entry point for how to get started even without reading your documentation.
 
 </p>
 </details>
