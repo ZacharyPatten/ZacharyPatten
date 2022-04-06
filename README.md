@@ -6,6 +6,7 @@
 > - [SevenEngine](https://github.com/ZacharyPatten/SevenEngine) <sub>2013 [Archived]</sub> <br /><sup>_An old college project; a battle simulator in C# using OpenGL (via OpenTK)._</sup>
 > - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sup>_Benchmark almanac for .NET code._</sup>
 > - [dotnet-winforms-examples](https://github.com/ZacharyPatten/dotnet-winforms-examples) <sub>2021+</sub><br /><sup>_Random winforms examples people ask me for help with._</sup>
+> - [rust-console-games](https://github.com/ZacharyPatten/rust-console-games) <sub>2021+</sub><br /><sup>_Game examples implemented as rust console applications._</sup>
 
 ## Authored Content
 
