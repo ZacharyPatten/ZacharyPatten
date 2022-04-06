@@ -9,6 +9,7 @@
 
 ## Authored Content
 
+> - [dotnet Console Games Tips And Tricks](https://github.com/ZacharyPatten/ZacharyPatten/blob/main/Articles/2022-04-07.md) <sub>April 6, 2022</sub>
 > - [GitHub Repository Checklist (C#)](https://github.com/ZacharyPatten/ZacharyPatten/blob/main/Articles/2021-07-27.md) <sub>July 27, 2021</sub>
 > - [Custom Range Syntax](https://github.com/ZacharyPatten/ZacharyPatten/blob/main/Articles/2021-06-04.md) <sub>June 4, 2021</sub>
 > - [Random Generation (with efficient exclusions)](https://github.com/ZacharyPatten/ZacharyPatten/blob/main/Articles/2021-01-31.md) <sub>January 31, 2021</sub>
