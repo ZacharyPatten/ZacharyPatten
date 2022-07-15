@@ -1,3 +1,13 @@
+<a href="mailto:sevenix.zp@gmail.com"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/gmail-badge.svg" title="Gmail" alt="Gmail" height="24"></sub></a>
+&nbsp;
+<a href="https://github.com/ZacharyPatten"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/github-badge.svg" title="GitHub Profile" alt="GitHub Profile" height="24"></sub></a>
+&nbsp;
+<a href="https://discordapp.com/users/438382611929366537/"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/discord-badge.svg" title="Discord Profile" alt="Discord Profile" height="24"></sub></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/zachary-patten-77616bb0/"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/linkedin-badge.svg" title="LinkedIn Profile" alt="LinkedIn Profile" height="24"></sub></a>
+&nbsp;
+<a href="https://github.com/ZacharyPatten/ZacharyPatten/discussions"><sub><img src="https://raw.githubusercontent.com/ZacharyPatten/ZacharyPatten/main/Resources/GitHub/github-discussions-badge.svg" title="GitHub Discussions" alt="GitHub Discussions" height="24"></sub></a>
+
 ## Repositories
 
 - [Towel](https://github.com/ZacharyPatten/Towel) <sub>2014+</sub><br /><sup>_A .NET library with data structures, algorithms, mathematics, extensions, and more._</sup>
