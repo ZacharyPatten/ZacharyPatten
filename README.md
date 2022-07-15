@@ -16,7 +16,7 @@
 
 > <details>
 > <summary>
-> Expand
+> Expand...
 > </summary>
 > <p>
 > 
