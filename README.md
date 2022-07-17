@@ -20,7 +20,7 @@
 > </summary>
 > <p>
 > 
-> - [dotnet-blazor-games](https://github.com/ZacharyPatten/dotnet-blazor-games) <sub>2020 [Archived]</sub><br /><sup>_Game examples implemented as .NET blazor components. NOTE: this was my first attempt to get the `dotnet-console-games` playable on blazor, but I found a better approach to porting the code which is now included in the `dotnet-console-games` repository rather than a seperate repository._</sup>
+> - [dotnet-blazor-games](https://github.com/ZacharyPatten/dotnet-blazor-games) <sub>2020-2021</sub><br /><sup>_Game examples implemented as .NET blazor components. NOTE: this was my first attempt to get the `dotnet-console-games` playable on blazor, but I found a better approach to porting the code which is now included in the `dotnet-console-games` repository rather than a seperate repository._</sup>
 > - [dotnet-benchmarks](https://github.com/dotneters/dotnet-benchmarks) <sub>2020+</sub><br /><sup>_Benchmark almanac for .NET code._</sup>
 > - [dotnet-winforms-examples](https://github.com/ZacharyPatten/dotnet-winforms-examples) <sub>2021+</sub><br /><sup>_Random winforms examples people ask me for help with._</sup>
 > - [rust-console-games](https://github.com/ZacharyPatten/rust-console-games) <sub>2021+</sub><br /><sup>_Game examples implemented as rust console applications._</sup>
