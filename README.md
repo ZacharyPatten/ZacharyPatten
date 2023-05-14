@@ -11,7 +11,7 @@
 ## Repositories
 
 - [Towel](https://github.com/ZacharyPatten/Towel) <sub>2014+</sub><br /><sup>_A .NET library with data structures, algorithms, mathematics, extensions, and more._</sup>
-- [dotnet-console-games](https://github.com/ZacharyPatten/dotnet-console-games) <sub>2020+</sub><br /><sup>_Game examples implemented as .NET console applications and blazor ports._</sup>
+- [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) <sub>2020+</sub><br /><sup>_Game examples implemented as .NET console applications and blazor ports._</sup>
 - [SevenEngine](https://github.com/ZacharyPatten/SevenEngine) <sub>2013 [Archived]</sub> <br /><sup>_An old college project; a battle simulator in C# using OpenGL (via OpenTK)._</sup>
 
 > <details>
